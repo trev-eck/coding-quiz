@@ -1,0 +1,27 @@
+li {
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h1 {
+    padding-left: 40px;
+}
+h3, form, p {
+
+    padding-left: 45px;
+}
+/* form {
+    padding-left: 45px;
+} */
+button {
+    background-color: purple;
+    color: white;
+    margin-left: 45px;
+}
