@@ -1,5 +1,5 @@
 # Coding-Quiz
-The goal of this project was to create a multiple choice quiz using Javascript and DOM manipulation to change the HTML elements on the page. This quiz checks your knowledge of 90's rock music to see whether or not you can guess the rock band from the opening song lyrics. Your final score is determined by the amount of time remaining on the timer, which decreases every second and by 5 seconds if you answer a question incorrectly. If you
+The goal of this project was to create a multiple choice quiz using Javascript and DOM manipulation to change the HTML elements on the page. This quiz checks your knowledge of 90's rock music to see whether or not you can guess the rock band from the opening song lyrics. Your final score is determined by the amount of time remaining on the timer, which decreases every second and by 5 seconds if you answer a question incorrectly.
 
 ## Functionality
 The bulk of the websites functionality revolves around the use of querySelector's to monitor and make changes to HTML elements and its contents, as well as eventListener's to check for button clicks to progress the quiz and submit information.
